@@ -5,9 +5,6 @@ int main() {
     int A[3][3], B[3][3], hasil[3][3];
     int pilihan;
     
-    cout << "=== PROGRAM OPERASI MATRIKS 3x3 ===" << endl;
-    cout << endl;
-    
     cout << "Masukkan elemen Matriks A (3x3):" << endl;
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
