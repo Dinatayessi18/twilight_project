@@ -1,0 +1,14 @@
+===={ Review Video }====
+
+![Image](https://github.com/user-attachments/assets/2318a1d9-8a7e-42ca-990f-9506a41e49f9)
+
+<font size="6">The FASTEST introduction to Reinforcement Learning on the internet</font>
+===={ Review Video }====
+![Image](https://github.com/user-attachments/assets/2318a1d9-8a7e-42ca-990f-9506a41e49f9)
+
+<font size="6">The FASTEST introduction to Reinforcement Learning on the internet</font>
+
+Reinforcement Learning adalah cabang machine learning di mana sebuah agent belajar membuat keputusan dengan berinteraksi langsung dengan lingkungannya melalui trial and error, mendapatkan reward untuk aksi yang baik dan penalty untuk aksi yang buruk, mirip seperti cara manusia belajar dari pengalaman. Konsep ini menjadi semakin populer di internet karena aplikasinya yang luas, mulai dari game playing seperti AlphaGo yang mengalahkan juara dunia Go, hingga sistem rekomendasi, robotika, dan autonomous vehicles yang kita lihat sehari-hari.
+Video ini memberikan pengantar komprehensif tentang Reinforcement Learning dengan durasi lebih dari satu jam yang dikemas secara efisien dan terstruktur. Pembelajaran dimulai dengan Introduction yang menjelaskan konsep dasar dan kerangka kerja Reinforcement Learning. Pembahasan kemudian berlanjut ke Markov Decision Processes (MDP), yang merupakan fondasi matematis penting dalam memahami bagaimana agent membuat keputusan dalam lingkungan yang tidak pasti.
+Materi dilanjutkan dengan penjelasan Grid Example dan Monte Carlo methods, di mana penonton diajak memahami implementasi praktis melalui contoh konkret. Video juga mengulas Temporal Difference learning, sebuah metode yang menggabungkan ide dari dynamic programming dan Monte Carlo. Bagian selanjutnya membahas Deep Q Networks (DQN), yang merupakan terobosan penting dalam menggabungkan deep learning dengan reinforcement learning, memungkinkan agent untuk belajar dari raw sensory input seperti pixels.
+Pembahasan Policy Gradients memberikan perspektif berbeda dalam pendekatan reinforcement learning, di mana agent langsung belajar policy optimal tanpa harus belajar value function terlebih dahulu. Video ditutup dengan pembahasan aspek Neuroscience, menghubungkan konsep reinforcement learning dengan bagaimana otak manusia dan hewan belajar dari reward dan punishment. Keseluruhan video ini sangat cocok bagi pemula yang ingin memahami reinforcement learning secara cepat namun mendalam, dengan penjelasan yang sistematis dari konsep dasar hingga aplikasi advanced seperti deep learning.
