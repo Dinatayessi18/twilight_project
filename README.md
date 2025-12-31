@@ -18,7 +18,6 @@ KRSBI-Humanoid: EEPIS Robot Soccer (EROS)
 
 
 
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f41c3128-7d04-44f5-bef5-3e13b0a858e7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/23138bb8-f4f6-4507-864c-04de88d4f6c5" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6ef5e10a-a9b9-45d5-825d-6fafbdcbae0c" />
