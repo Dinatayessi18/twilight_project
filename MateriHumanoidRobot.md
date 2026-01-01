@@ -1,14 +1,14 @@
-# ===={ Review Video }====
+## ===={ Review Video }====
 
 ![Image](https://github.com/user-attachments/assets/2318a1d9-8a7e-42ca-990f-9506a41e49f9)
 
-## #<font size="6">The FASTEST introduction to Reinforcement Learning on the internet</font>
+### #<font size="6">The FASTEST introduction to Reinforcement Learning on the internet</font>
 
 **“The FASTEST introduction to Reinforcement Learning on the internet”** merupakan sebuah pengantar singkat namun padat tentang *Reinforcement Learning (RL)*, yaitu cabang *machine learning* yang mempelajari bagaimana sebuah agen (*agent*) belajar mengambil keputusan terbaik melalui interaksi dengan lingkungan (*environment*) berdasarkan umpan balik berupa *reward* dan *punishment*. Dalam video ini dijelaskan konsep dasar RL seperti hubungan antara *agent*, *state*, *action*, dan *reward*, serta kerangka matematis **Markov Decision Process (MDP)** sebagai fondasi utama permasalahan RL. Materi kemudian dilanjutkan dengan penjelasan metode pembelajaran seperti **Monte Carlo** dan **Temporal Difference Learning** untuk menunjukkan bagaimana agen belajar dari pengalaman, lalu berkembang ke algoritma yang lebih lanjut seperti **Q-Learning**, **Deep Q-Networks (DQN)** yang menggabungkan *deep learning* dengan RL, serta **Policy Gradient** yang mempelajari strategi secara langsung. Selain itu, video juga menyinggung keterkaitan Reinforcement Learning dengan *neuroscience*, keterbatasan pendekatan RL saat ini, serta arah pengembangannya di masa depan. Secara keseluruhan, video ini memberikan gambaran menyeluruh dan cepat mengenai konsep inti Reinforcement Learning, sehingga sangat cocok sebagai pemahaman awal bagi pemula seperti saya yang ingin masuk ke dunia AI dan pembelajaran berbasis keputusan.
 
-# ---==[ Review Book ]==---
+## ---==[ Review Book ]==---
 ![Image](https://github.com/user-attachments/assets/a9532f14-eccd-4160-9542-e942e9a6b29d)
 
-## Introduction to Humanoid Robotics
+### Introduction to Humanoid Robotics
 
-## Chapter 1: Introduction
+###### Chapter 1: Introduction
